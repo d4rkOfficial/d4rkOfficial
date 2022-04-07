@@ -1,1 +1,4 @@
-- [![​Badge​](https://github.com/D4rKCN/D4rKCN/blob/main/%E4%BD%A0%E4%B9%9F%E4%B8%8D%E7%9C%8B%E8%BF%99%E6%98%AF%E8%B0%81%E7%9A%84%E5%A4%A9%E4%B8%8B.png)]()
+# 陈华合法版
+![](https://github.com/D4rKCN/D4rKCN/blob/main/ChenhuaShaBi002.png)
+# 陈华违法版
+![](https://github.com/D4rKCN/D4rKCN/blob/main/ChenhuaShaBi001.png)
