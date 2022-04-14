@@ -1,9 +1,15 @@
-<!DOCTYPE html>
-<html>
-	<head>
-		<title>测试</title>
-	</head>
-	<body>
-		<h1>测试</h1>
-	</body>
-</html>
+代码
+
+```mermaid
+
+pie
+
+title Pets adopted by volunteers
+
+"Dogs" : 386
+
+"Cats" : 85
+
+"Rats" : 15
+
+``
