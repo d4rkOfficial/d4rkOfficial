@@ -2,15 +2,7 @@
 [![Badge](https://img.shields.io/badge/QQ-592051128-%231298ef.svg?style=flat-square)](https://qm.qq.com/cgi-bin/qm/qr?k=hG8IECQC6D5qERTsFdX-u7BEl4gMe4GF&noverify=0)
 [![Badge](https://img.shields.io/badge/Bilibili-D4rK__-%23FF4D99.svg?style=flat-square)](https://b23.tv/A6CdRzF)
 
-```mermaid
-pie
-
-title 什么游戏最好玩？
-
-"我的世界" : 1000
-
-"迷你世界" : 2000
-
-"Q块世界" : 3500
-
+```kotlin
+Everything is fun to do,
+when you just try to do it.
 ```
